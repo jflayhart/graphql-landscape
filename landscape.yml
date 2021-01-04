@@ -788,3 +788,8 @@ landscape:
             logo: yelp.svg
             twitter: 'https://twitter.com/yelp'
             crunchbase: 'https://www.crunchbase.com/organization/yelp'
+          - item:
+            name: Shipt
+            homepage_url: 'https://shipt.com'
+            logo: shipt-logo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/shipt'
